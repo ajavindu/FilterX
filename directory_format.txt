@@ -1,0 +1,7 @@
+/path/to/your/directory/
+├── CST_L.tck
+├── CST_R.tck
+├── LPIC_binary.nii.gz(Left posterior Internal Capsule) 
+├── LCP_binary.nii.gz(Left cerebral Peduncle)
+├── RPIC_binary.nii.gz
+└── RCP_binary.nii.gz
