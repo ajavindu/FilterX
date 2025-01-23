@@ -3,6 +3,7 @@
 
 # Import necessary libraries
 import os
+import numpy as np
 import subprocess  # To run shell commands
 import nibabel as nib  # To handle neuroimaging data formats
 import matplotlib.pyplot as plt  # For plotting
